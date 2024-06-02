@@ -1,4 +1,4 @@
-# chemistry-agents
+# Chemistry Agents
 A demo about an agentic workflow applied to a chemistry classroom.
 
 This proof-of-concept implements 2 assistants:
