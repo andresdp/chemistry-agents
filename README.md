@@ -6,7 +6,7 @@ This proof-of-concept implements 2 assistants:
 * **AskMe**: It provides support for Q&A from students about chemistry topics. The questions are anwsered from a chemistry textbook.
 * **TestYou**: It can generate multiple-choice questions for an input topic. Once the student answers the question, it is automatically graded.
 
-![](assistants.pdf)
+![](assistants.png)
 
 In addition, the assistants can link the questions and answers to predefined learning goals and course contents.
 
